@@ -1,12 +1,12 @@
 ---
 title: Услуги
 layout: services
-description: Услуги Kernk
-intro_image: "images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg"
+description: Энергетические услуги Kerneu-K
+intro_image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
-# Услуги для запуска и роста
+# Услуги по энергетике для действующих объектов
 
-Мы помогаем пройти путь от сырой идеи до опубликованной страницы: собираем смысл, проектируем сценарий, пишем тексты, оформляем и готовим сайт к поддержке.
+Берём на себя инженерную часть: от обследования щитов и расчёта нагрузок до пусконаладки, коммерческого учёта и планового обслуживания. На каждом этапе рядом с заказчиком работает профильный специалист.

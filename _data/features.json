@@ -1,27 +1,27 @@
 [
   {
-    "title": "Быстрый старт",
-    "description": "Собираем первую версию сайта без тяжёлой инфраструктуры и долгих согласований.",
+    "title": "Обследование объекта",
+    "description": "Инженер фиксирует фактическую схему, нагрузку и состояние оборудования на месте.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/team/peter-van-eijk-711986-unsplash.jpg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Понятная структура",
-    "description": "Раскладываем сообщения, страницы и действия так, чтобы пользователю было легко двигаться дальше.",
+    "title": "Расчёт и проект",
+    "description": "Готовим решения по электроснабжению, защите, учёту и модернизации сетей.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/team/joseph-gonzalez-399972-unsplash.jpg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Готово к Pages",
-    "description": "Настраиваем сборку, базовые SEO-мета и публикацию через GitHub Pages.",
+    "title": "Сервис без пауз",
+    "description": "Планируем работы так, чтобы объект продолжал работать безопасно и предсказуемо.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/team/sage-kirk-485982-unsplash.jpg",
       "width": 80,
       "height": 80
     }

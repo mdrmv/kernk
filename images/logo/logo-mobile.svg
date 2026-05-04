@@ -1,5 +1,6 @@
 <svg width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Kernk</title>
-  <rect x="3" y="3" width="48" height="48" rx="9" fill="#2f2f41"/>
+  <title id="title">Kerneu-K</title>
+  <rect x="3" y="3" width="48" height="48" rx="8" fill="#062f63"/>
   <path d="M15 39V15h7v9.5L33 15h8.5L29.5 26 42 39h-9.5L22 28v11h-7Z" fill="#ffffff"/>
+  <path d="M25 17h8l-7 13h8L18 49l6-15h-7l8-17Z" fill="#f2a900"/>
 </svg>

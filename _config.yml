@@ -1,7 +1,7 @@
 url: 'https://mdrmv.github.io'
 baseurl: '/kernk'
 permalink: pretty
-title: 'Kernk'
+title: 'Kerneu-K'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -9,7 +9,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
   desktop_height: "32px"
-  desktop_width: "118px"
+  desktop_width: "150px"
 
 home: 
   limit_services: 6

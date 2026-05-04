@@ -15,8 +15,9 @@
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: $primary;
+        color: $black;
         &:hover {
+          color: $primary-dark;
           text-decoration: underline;
         }
       }
