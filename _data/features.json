@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Быстрый старт",
+    "description": "Собираем первую версию сайта без тяжёлой инфраструктуры и долгих согласований.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Понятная структура",
+    "description": "Раскладываем сообщения, страницы и действия так, чтобы пользователю было легко двигаться дальше.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Готово к Pages",
+    "description": "Настраиваем сборку, базовые SEO-мета и публикацию через GitHub Pages.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
