@@ -1,12 +1,12 @@
 ---
 title: Услуги
 layout: services
-description: Энергетические услуги Kerneu-K
-intro_image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+description: Услуги Kerneu-K по энергетике
+intro_image: "images/person/engineer-portrait-office.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
 # Услуги по энергетике для действующих объектов
 
-Берём на себя инженерную часть: от обследования щитов и расчёта нагрузок до пусконаладки, коммерческого учёта и планового обслуживания. На каждом этапе рядом с заказчиком работает профильный специалист.
+От первичного выезда до регулярного сервиса: Kerneu-K помогает привести электрохозяйство в порядок, снизить риски и подготовить объект к росту нагрузки.

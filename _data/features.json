@@ -1,27 +1,27 @@
 [
   {
-    "title": "Обследование объекта",
-    "description": "Инженер фиксирует фактическую схему, нагрузку и состояние оборудования на месте.",
+    "title": "Выезд инженера",
+    "description": "Осмотр щитов, нагрузки и узлов учёта на реальном объекте.",
     "image": {
-      "url": "images/team/peter-van-eijk-711986-unsplash.jpg",
+      "url": "images/person/engineer-portrait-main.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Расчёт и проект",
-    "description": "Готовим решения по электроснабжению, защите, учёту и модернизации сетей.",
+    "title": "Понятный план",
+    "description": "Приоритеты работ, технические риски и решения без канцелярита.",
     "image": {
-      "url": "images/team/joseph-gonzalez-399972-unsplash.jpg",
+      "url": "images/person/engineer-portrait-vertical.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Сервис без пауз",
-    "description": "Планируем работы так, чтобы объект продолжал работать безопасно и предсказуемо.",
+    "title": "Сервис объекта",
+    "description": "Регулярный контроль, профилактика и сопровождение после запуска.",
     "image": {
-      "url": "images/team/sage-kirk-485982-unsplash.jpg",
+      "url": "images/person/engineer-portrait-office.png",
       "width": 80,
       "height": 80
     }

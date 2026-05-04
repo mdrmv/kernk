@@ -1,6 +1,6 @@
 <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
   <title id="title">Kerneu-K</title>
   <rect width="32" height="32" rx="4" fill="#062f63"/>
-  <path d="M8 23V9h4v5.4L18.4 9h5L16.5 15.4 24 23h-5.6L12 16.5V23H8Z" fill="#fff"/>
+  <path d="M8 23V9h4v5.4L18.4 9h5L16.5 15.4 24 23h-5.6L12 16.5V23H8Z" fill="#ffffff"/>
   <path d="M15 8h5l-4 8h5L10 30l4-10H9l6-12Z" fill="#f2a900"/>
 </svg>

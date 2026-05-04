@@ -1,7 +1,7 @@
 {
     "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
     "title": "Kerneu-K",
-    "description": "Русский Jekyll-сайт энергетических услуг Kerneu-K на базе темы Serif.",
+    "description": "Русский сайт услуг по энергетике на базе Jekyll Serif.",
     "demoUrl": "https://mdrmv.github.io/kernk/",
     "categories": {
       "ssg": ["jekyll"],

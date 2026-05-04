@@ -2,10 +2,10 @@ main:
   - name: "Услуги"
     url: "/services/"
     weight: 2
-  - name: "Команда"
+  - name: "Эксперт"
     url: "/team/"
     weight: 3
-  - name: "О нас"
+  - name: "О компании"
     url: "/about/"
     weight: 4
   - name: "Контакты"

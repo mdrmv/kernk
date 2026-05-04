@@ -1,6 +1,6 @@
 # Kerneu-K
 
-Русская версия сайта энергетических услуг Kerneu-K на базе Jekyll Serif, подготовленная для публикации через GitHub Pages.
+Сайт услуг по энергетике на базе Jekyll Serif. Шаблон сохранён по структуре, контент переведён на русский и адаптирован под инженерные услуги Kerneu-K.
 
 ## Локальный запуск
 
@@ -9,14 +9,14 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Сайт будет доступен локально по адресу, который покажет Jekyll. Для production-сборки:
+## Сборка
 
 ```bash
 bundle exec jekyll build
 ```
 
-## Публикация
+## GitHub Pages
 
-В репозитории есть GitHub Actions workflow `.github/workflows/pages.yml`. После push в `main` он собирает Jekyll и публикует сайт через GitHub Pages.
+Публикация настроена через `.github/workflows/pages.yml`. После push в `main` GitHub Actions собирает Jekyll и выкладывает сайт на GitHub Pages.
 
-Тема основана на MIT-проекте [Jekyll Serif Theme](https://github.com/zerostaticthemes/jekyll-serif-theme) от Zerostatic.
+Основано на MIT-теме [Jekyll Serif Theme](https://github.com/zerostaticthemes/jekyll-serif-theme).
