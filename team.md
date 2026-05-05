@@ -3,7 +3,7 @@ title: Эксперт
 layout: teams
 description: Инженер Kerneu-K
 permalink: "/team/"
-intro_image: "images/person/engineer-portrait-main.png"
+intro_image: "images/generated/energy-audit-hero.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Специалист по учёту"
 date: 2026-05-05T01:00:00+06:00
-image: "images/person/engineer-portrait-main.png"
+image: "images/generated/metering.jpg"
 jobtitle: "Приборы учёта и данные"
 weight: 5
 ---

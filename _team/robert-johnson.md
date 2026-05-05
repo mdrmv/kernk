@@ -1,7 +1,7 @@
 ---
 title: "Инженер по автоматизации"
 date: 2026-05-05T01:05:00+06:00
-image: "images/person/engineer-portrait-office.png"
+image: "images/generated/automation-dispatch.jpg"
 jobtitle: "Мониторинг и диспетчеризация"
 linkedinurl: ""
 weight: 6

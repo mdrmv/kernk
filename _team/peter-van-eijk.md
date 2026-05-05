@@ -1,7 +1,7 @@
 ---
 title: "Главный инженер"
 date: 2026-05-05T00:40:00+06:00
-image: "images/person/engineer-portrait-main.png"
+image: "images/generated/energy-audit-hero.jpg"
 jobtitle: "Обследование и технические решения"
 linkedinurl: ""
 promoted: true

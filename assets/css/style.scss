@@ -8,7 +8,7 @@ $secondary: #ffd45f;
 $black: #062f63;
 $white: #ffffff;
 $white-offset: #f7fbff;
-$steel: #586879;
+$steel: #163a66;
 
 // Links
 $link-color: $primary-dark;
@@ -111,6 +111,7 @@ body {
   font-size: 16px;
   line-height: 1.2;
   font-family: $font-family-base;
+  color: $black;
   @include media-breakpoint-up(md) {
     font-size: 16px;
     line-height: 1.3;

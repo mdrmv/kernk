@@ -7,7 +7,7 @@ weight: 2
 Готовим решения для подключения оборудования, расширения мощностей и модернизации существующей сети.
 <!--more-->
 
-![Инженер Kerneu-K рассчитывает электроснабжение]({{ '/images/person/engineer-portrait-office.png' | relative_url }})
+![Инженер Kerneu-K рассчитывает электроснабжение]({{ '/images/generated/power-design.jpg' | relative_url }})
 
 # Проект без догадок
 

@@ -7,7 +7,7 @@ weight: 4
 Планово обслуживаем электрохозяйство, чтобы проблемы обнаруживались до аварии и простоя.
 <!--more-->
 
-![Инженер Kerneu-K на сервисном выезде]({{ '/images/person/engineer-portrait-small.png' | relative_url }})
+![Инженер Kerneu-K на сервисном выезде]({{ '/images/generated/service-maintenance.jpg' | relative_url }})
 
 # Регулярный контроль
 

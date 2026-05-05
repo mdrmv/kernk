@@ -7,7 +7,7 @@ weight: 5
 Проверяем и настраиваем учёт электроэнергии, чтобы показания были точными и полезными для управления затратами.
 <!--more-->
 
-![Инженер Kerneu-K проверяет узел учёта]({{ '/images/person/engineer-portrait-main.png' | relative_url }})
+![Инженер Kerneu-K проверяет узел учёта]({{ '/images/generated/metering.jpg' | relative_url }})
 
 # Данные, которым можно доверять
 

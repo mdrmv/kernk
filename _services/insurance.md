@@ -7,7 +7,7 @@ weight: 7
 Настраиваем контроль параметров энергохозяйства, уведомления и удалённое наблюдение за критичными зонами.
 <!--more-->
 
-![Инженер Kerneu-K настраивает диспетчеризацию]({{ '/images/person/engineer-portrait-vertical.png' | relative_url }})
+![Инженер Kerneu-K настраивает диспетчеризацию]({{ '/images/generated/automation-dispatch.jpg' | relative_url }})
 
 # Видимость вместо ручных догадок
 

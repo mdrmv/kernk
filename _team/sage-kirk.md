@@ -1,7 +1,7 @@
 ---
 title: "Энергоаудитор"
 date: 2026-05-05T00:45:00+06:00
-image: "images/person/engineer-portrait-office.png"
+image: "images/generated/service-maintenance.jpg"
 jobtitle: "Выезд, осмотр, фиксация рисков"
 linkedinurl: ""
 promoted: true

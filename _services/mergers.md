@@ -7,7 +7,7 @@ weight: 3
 Собираем, подключаем и проверяем электрические системы перед передачей объекта в эксплуатацию.
 <!--more-->
 
-![Инженер Kerneu-K контролирует пусконаладку]({{ '/images/person/engineer-portrait-vertical.png' | relative_url }})
+![Инженер Kerneu-K контролирует пусконаладку]({{ '/images/generated/installation-commissioning.jpg' | relative_url }})
 
 # Аккуратный запуск
 

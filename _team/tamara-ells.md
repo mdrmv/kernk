@@ -1,7 +1,7 @@
 ---
 title: "Руководитель монтажа"
 date: 2026-05-05T00:55:00+06:00
-image: "images/person/engineer-portrait-small.png"
+image: "images/generated/installation-commissioning.jpg"
 jobtitle: "Монтаж и пусконаладка"
 weight: 4
 ---

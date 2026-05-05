@@ -7,7 +7,7 @@ weight: 8
 Ищем решения, которые снижают потребление без потери комфорта, производительности и надёжности.
 <!--more-->
 
-![Инженер Kerneu-K оценивает энергоэффективность]({{ '/images/person/engineer-portrait-small.png' | relative_url }})
+![Инженер Kerneu-K оценивает энергоэффективность]({{ '/images/generated/energy-efficiency.jpg' | relative_url }})
 
 # Экономия через инженерные решения
 

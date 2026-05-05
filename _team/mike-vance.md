@@ -1,7 +1,7 @@
 ---
 title: "Проектировщик"
 date: 2026-05-05T00:50:00+06:00
-image: "images/person/engineer-portrait-vertical.png"
+image: "images/generated/power-design.jpg"
 jobtitle: "Расчёты и схемы"
 linkedinurl: ""
 weight: 3

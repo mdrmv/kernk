@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Kerneu-K оказывает услуги по энергетике для коммерческих и производственных объектов. Мы работаем там, где важно не просто “подключить”, а понять реальное состояние сети, нагрузку, безопасность и стоимость эксплуатации.
 
-![Инженер Kerneu-K на обследовании]({{ '/images/person/engineer-portrait-office.png' | relative_url }})
+![Инженер Kerneu-K на обследовании]({{ '/images/generated/service-maintenance.jpg' | relative_url }})
 
 # Подход
 

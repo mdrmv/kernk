@@ -2,7 +2,7 @@
 title: Услуги
 layout: services
 description: Услуги Kerneu-K по энергетике
-intro_image: "images/person/engineer-portrait-office.png"
+intro_image: "images/generated/power-design.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---

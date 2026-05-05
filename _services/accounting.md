@@ -7,7 +7,7 @@ weight: 1
 Проверяем фактическое состояние электрохозяйства и показываем, где объект теряет энергию, ресурс и безопасность.
 <!--more-->
 
-![Инженер Kerneu-K проводит энергоаудит]({{ '/images/person/engineer-portrait-main.png' | relative_url }})
+![Инженер Kerneu-K проводит энергоаудит]({{ '/images/generated/energy-audit-hero.jpg' | relative_url }})
 
 # Что делает инженер
 

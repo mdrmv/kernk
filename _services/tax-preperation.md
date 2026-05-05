@@ -7,7 +7,7 @@ weight: 6
 Проверяем защиту, заземление и селективность, чтобы авария не распространялась по всей сети объекта.
 <!--more-->
 
-![Инженер Kerneu-K проверяет защиту]({{ '/images/person/engineer-portrait-office.png' | relative_url }})
+![Инженер Kerneu-K проверяет защиту]({{ '/images/generated/electrical-safety.jpg' | relative_url }})
 
 # Безопасность без формальности
 
